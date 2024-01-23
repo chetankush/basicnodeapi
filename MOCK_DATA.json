@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Dr Ritika Saxena (PT)",
+        "specialization": "M.Sc (Neuro Rehabilitation)",
+        "city": "Indore",
+        "rating": "3.4",
+        "imagePath": "expert1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dr Sameer Gupta (PT)",
+        "specialization": "M.Sc (Orthopedic Physiotherapy)",
+        "city": "Jaipur",
+        "rating": "4.1",
+        "imagePath": "expert2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dr Priya Sharma (PT)",
+        "specialization": "M.Sc (Cardiovascular and Pulmonary Physiotherapy)",
+        "city": "Guna",
+        "rating": "4.8",
+        "imagePath": "expert3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dr Ankit Patel (PT)",
+        "specialization": "M.Sc (Sports Physiotherapy)",
+        "city": "Indore",
+        "rating": "3.9",
+        "imagePath": "expert4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dr Neha Verma (PT)",
+        "specialization": "M.Sc (Pediatric Physiotherapy)",
+        "city": "Jaipur",
+        "rating": "4.2",
+        "imagePath": "expert5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dr Manoj Kumar (PT)",
+        "specialization": "M.Sc (Geriatric Physiotherapy)",
+        "city": "Guna",
+        "rating": "4.5",
+        "imagePath": "expert6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dr Pooja Singh (PT)",
+        "specialization": "M.Sc (Women's Health Physiotherapy)",
+        "city": "Indore",
+        "rating": "3.7",
+        "imagePath": "expert7.jpg"
+    }
+]
