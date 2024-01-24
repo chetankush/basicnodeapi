@@ -5,7 +5,7 @@
         "specialization": "M.Sc (Neuro Rehabilitation)",
         "city": "Indore",
         "rating": "3.4",
-        "imagePath": "expert1.jpg"
+        "imagePath": "https://i.pinimg.com/736x/c5/a3/90/c5a3904b38eb241dd03dd30889599dc4.jpg"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "specialization": "M.Sc (Orthopedic Physiotherapy)",
         "city": "Jaipur",
         "rating": "4.1",
-        "imagePath": "expert2.jpg"
+        "imagePath": "https://thumbs.dreamstime.com/b/indian-doctor-stethoscope-around-neck-his-office-170292594.jpg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "specialization": "M.Sc (Cardiovascular and Pulmonary Physiotherapy)",
         "city": "Guna",
         "rating": "4.8",
-        "imagePath": "expert3.jpg"
+        "imagePath": "https://static.vecteezy.com/system/resources/thumbnails/028/287/555/small/an-indian-young-female-doctor-isolated-on-green-ai-generated-photo.jpg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "specialization": "M.Sc (Sports Physiotherapy)",
         "city": "Indore",
         "rating": "3.9",
-        "imagePath": "expert4.jpg"
+        "imagePath": "https://media.istockphoto.com/id/1446041217/photo/portrait-of-smiling-male-doctor-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=t1y5xibAPFIzOa1oN4tQ5RQKSiURBU2VxeJahOSw9wE="
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "specialization": "M.Sc (Pediatric Physiotherapy)",
         "city": "Jaipur",
         "rating": "4.2",
-        "imagePath": "expert5.jpg"
+        "imagePath": "https://img.freepik.com/premium-photo/young-female-doctor-front-view-wearing-coat-stethoscope-around-neck-indian-pakistani-model_561639-131.jpg"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "specialization": "M.Sc (Geriatric Physiotherapy)",
         "city": "Guna",
         "rating": "4.5",
-        "imagePath": "expert6.jpg"
+        "imagePath": "https://www.pngitem.com/pimgs/m/193-1939059_indian-doctor-png-download-indian-doctor-images-png.png"
     },
     {
         "id": 7,
@@ -53,6 +53,6 @@
         "specialization": "M.Sc (Women's Health Physiotherapy)",
         "city": "Indore",
         "rating": "3.7",
-        "imagePath": "expert7.jpg"
+        "imagePath": "https://img.freepik.com/free-photo/attractive-medical-professional-uniform-standing-with-arms-crossed-against-isolated-background_662251-416.jpg"
     }
 ]
